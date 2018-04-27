@@ -26,5 +26,5 @@ R libraries used for building the app:
 
 ### Team
 
-
+[Trey Mack](https://github.com/astrotrey>)
 
